@@ -20,3 +20,8 @@ ejercicio.
 de personas, cuyo número de miembros se desconoce, el ciclo debe
 efectuarse siempre y cuando se tenga una estatura registrada. Resolver el ejercicio
 usando los métodos que considere necesarios.
+
+6.Se requiere un algoritmo para determinar cuánto ahorrará una persona
+en un año, si al final de cada mes deposita variables cantidades de dinero;
+además, se requiere saber cuánto lleva ahorrado cada mes. Resolver el ejercicio usando los
+métodos que considere necesarios.
