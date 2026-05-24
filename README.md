@@ -11,3 +11,7 @@ encargará de realizar la suma.
 la utilización de un ciclo FOR. Usando dos métodos para resolver el ejercicio.
 El primer método se encargará de solicitar los datos y el segundo método se
 encargará de realizar la suma y el tercero de imprimir la suma.
+
+4.Se requiere un algoritmo para obtener la edad promedio de un grupo de N
+alumnos. El valor de N se ingresará por teclado. Usar Métodos para resolver el
+ejercicio.
