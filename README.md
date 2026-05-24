@@ -15,3 +15,8 @@ encargará de realizar la suma y el tercero de imprimir la suma.
 4.Se requiere un algoritmo para obtener la edad promedio de un grupo de N
 alumnos. El valor de N se ingresará por teclado. Usar Métodos para resolver el
 ejercicio.
+
+5.Se requiere un algoritmo para obtener la estatura promedio de un grupo
+de personas, cuyo número de miembros se desconoce, el ciclo debe
+efectuarse siempre y cuando se tenga una estatura registrada. Resolver el ejercicio
+usando los métodos que considere necesarios.
