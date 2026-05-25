@@ -37,4 +37,8 @@ recorrido (de 0 a 20) pero, utilizando una estructura de salto (continue) cuando
 par, debe omitir su impresión para lograr mostrar únicamente los números impares.
 
 9.Realice un algoritmo para generar N elementos de la sucesión de Fibonacci
-(0, 1, 1, 2, 3, 5, 8, 13,?). Resolver el ejercicio utilizando métodos como crea conveniente
+(0, 1, 1, 2, 3, 5, 8, 13,?). Resolver el ejercicio utilizando métodos como crea conveniente.
+
+10.Una empresa tiene el registro de las horas que trabaja diariamente un
+empleado durante la semana (seis días) y requiere determinar el total de
+éstas, así como el sueldo que recibirá por las horas trabajadas.
