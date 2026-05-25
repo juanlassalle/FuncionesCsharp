@@ -8,8 +8,11 @@ namespace Ejercicio_8
 {
     internal class Program
     {
-        //Realice un algoritmo usando un método para generar e imprimir los números pares que se
-        //encuentran entre 0 y 20; y luego los impares el mismo condicional en otro método.
+       //Realice un algoritmo que, a través de un método principal de impresión, coordine la llamada a dos
+       //métodos independientes. El primero debe recorrer los números del 0 al 20 e imprimir únicamente los
+       //valores pares utilizando el operador de residuo. El segundo método debe realizar el mismo
+       //recorrido (de 0 a 20) pero, utilizando una estructura de salto (continue) cuando detecte un número
+       //par, debe omitir su impresión para lograr mostrar únicamente los números impares.
         static void Main(string[] args)
         {
             ImprimirNumeros();

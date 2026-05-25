@@ -35,3 +35,6 @@ métodos independientes. El primero debe recorrer los números del 0 al 20 e imp
 valores pares utilizando el operador de residuo. El segundo método debe realizar el mismo
 recorrido (de 0 a 20) pero, utilizando una estructura de salto (continue) cuando detecte un número
 par, debe omitir su impresión para lograr mostrar únicamente los números impares.
+
+9.Realice un algoritmo para generar N elementos de la sucesión de Fibonacci
+(0, 1, 1, 2, 3, 5, 8, 13,?). Resolver el ejercicio utilizando métodos como crea conveniente
