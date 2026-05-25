@@ -25,3 +25,7 @@ usando los métodos que considere necesarios.
 en un año, si al final de cada mes deposita variables cantidades de dinero;
 además, se requiere saber cuánto lleva ahorrado cada mes. Resolver el ejercicio usando los
 métodos que considere necesarios.
+
+7.Se requiere un algoritmo para determinar, de N cantidades, cuántas son
+menores o iguales a cero y cuántas mayores a cero. Resolver el ejercicio utilizando métodos como
+crea conveniente
