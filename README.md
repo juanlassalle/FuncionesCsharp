@@ -42,3 +42,9 @@ par, debe omitir su impresión para lograr mostrar únicamente los números impa
 10.Una empresa tiene el registro de las horas que trabaja diariamente un
 empleado durante la semana (seis días) y requiere determinar el total de
 éstas, así como el sueldo que recibirá por las horas trabajadas.
+
+11.Un empleado de la tienda "Tiki Taka" realiza N ventas durante el día, se requiere
+saber cuántas de ellas fueron mayores a $1000, cuántas fueron mayores
+a $500 pero menores o iguales a $1000, y cuántas fueron menores o
+iguales a $500. Además, se requiere saber el monto de lo vendido en cada
+categoría y de forma global.
