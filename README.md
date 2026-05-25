@@ -29,3 +29,9 @@ métodos que considere necesarios.
 7.Se requiere un algoritmo para determinar, de N cantidades, cuántas son
 menores o iguales a cero y cuántas mayores a cero. Resolver el ejercicio utilizando métodos como
 crea conveniente
+
+8.Realice un algoritmo que, a través de un método principal de impresión, coordine la llamada a dos
+métodos independientes. El primero debe recorrer los números del 0 al 20 e imprimir únicamente los
+valores pares utilizando el operador de residuo. El segundo método debe realizar el mismo
+recorrido (de 0 a 20) pero, utilizando una estructura de salto (continue) cuando detecte un número
+par, debe omitir su impresión para lograr mostrar únicamente los números impares.
