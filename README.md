@@ -48,3 +48,9 @@ saber cuántas de ellas fueron mayores a $1000, cuántas fueron mayores
 a $500 pero menores o iguales a $1000, y cuántas fueron menores o
 iguales a $500. Además, se requiere saber el monto de lo vendido en cada
 categoría y de forma global.
+
+12.Una persona adquirió un producto para pagar en 20 meses. El primer mes
+pagó $10, el segundo $20, el tercero $40 y así sucesivamente. Realice un
+algoritmo para determinar cuánto debe pagar mensualmente y el total de
+lo que pagó después de los 10 meses. Resolver el ejercicio con una clase
+y los métodos que sean necesarios.
