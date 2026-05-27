@@ -54,3 +54,8 @@ pagó $10, el segundo $20, el tercero $40 y así sucesivamente. Realice un
 algoritmo para determinar cuánto debe pagar mensualmente y el total de
 lo que pagó después de los 10 meses. Resolver el ejercicio con una clase
 y los métodos que sean necesarios.
+
+13Una empresa les paga a sus empleados con base en las horas trabajadas en
+la semana. Realice un algoritmo para determinar el sueldo semanal de N
+trabajadores y, además, calcule cuánto pagó la empresa por los N empleados. Usando una clase
+con los métodos que crea conveniente.
