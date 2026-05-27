@@ -55,7 +55,15 @@ algoritmo para determinar cuánto debe pagar mensualmente y el total de
 lo que pagó después de los 10 meses. Resolver el ejercicio con una clase
 y los métodos que sean necesarios.
 
-13Una empresa les paga a sus empleados con base en las horas trabajadas en
+13.Una empresa les paga a sus empleados con base en las horas trabajadas en
 la semana. Realice un algoritmo para determinar el sueldo semanal de N
 trabajadores y, además, calcule cuánto pagó la empresa por los N empleados. Usando una clase
 con los métodos que crea conveniente.
+
+14.La cadena de tiendas de autoservicio "El mandilón" cuenta con sucursales
+en C ciudades diferentes de la República, en cada ciudad cuenta con T
+tiendas y cada tienda cuenta con N empleados, asimismo, cada una registra
+lo que vende de manera individual cada empleado, cuánto fue lo que
+vendió cada tienda, cuánto se vendió en cada ciudad y cuánto recaudó la
+cadena en un solo día. Resolver el ejercio con un clase para validar datos
+y otra para calcular las ventas.
