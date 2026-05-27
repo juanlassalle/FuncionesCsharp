@@ -67,3 +67,8 @@ lo que vende de manera individual cada empleado, cuánto fue lo que
 vendió cada tienda, cuánto se vendió en cada ciudad y cuánto recaudó la
 cadena en un solo día. Resolver el ejercio con un clase para validar datos
 y otra para calcular las ventas.
+
+15.Una compañía fabrica focos de colores (verdes, blancos y rojos). Se
+desea contabilizar, de un lote de N focos, el número de focos de cada
+color que hay en existencia. Resolver el ejercicio Con 2 clases y los 
+métodos que crea necesarios.
